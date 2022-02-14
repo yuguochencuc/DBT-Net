@@ -4,4 +4,4 @@ The audio demos with respect to the paper "DBT-Net: Dual-branch federative magni
 ### Overall architecture:
   
   
-  [overall.pdf](https://github.com/yuguochencuc/DBT-Net/files/8058389/overall.pdf)
+  ![image](https://user-images.githubusercontent.com/51236251/153812164-e7ab16c3-bcb0-494e-99a8-70671c812eb4.png)
